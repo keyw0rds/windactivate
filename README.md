@@ -1,7 +1,7 @@
 # WinActivate
 Tool To Activate Windows
-
-![](https://i.ibb.co/ByX2bJX/lz.png)
+<center>
+![](https://i.ibb.co/ByX2bJX/lz.png)</center>
 
 How To Use?
 =
