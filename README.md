@@ -1,7 +1,7 @@
 # WinActivate
 Tool To Activate Windows
 
-!(https://i.ibb.co/MBwZzn9/ss.jpg)
+![](https://i.ibb.co/MBwZzn9/ss.jpg)
 
 How To Use?
 =
@@ -18,8 +18,8 @@ More Information
 
 <table>
     <tr>
-        <th>TESTED On</th>
-        <th>Language</th>
+        <th>Tested On</th>
+        <th>Program Language</th>
     </tr>
     <tr>
         <td>Windows 10</td>
