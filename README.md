@@ -1,7 +1,7 @@
 # WinActivate
 Tool To Activate Windows
-<center>
-![](https://i.ibb.co/ByX2bJX/lz.png)</center>
+
+![](https://i.ibb.co/ByX2bJX/lz.png)
 
 How To Use?
 =
@@ -20,9 +20,11 @@ More Information
     <tr>
         <th>Tested On</th>
         <th>Program Language</th>
+        <th>Contact</th>
     </tr>
     <tr>
         <td>Windows 10</td>
         <td>Python</td>
+        <td>Instagram : @_hidayt_</td>
     </tr>
 </table>
